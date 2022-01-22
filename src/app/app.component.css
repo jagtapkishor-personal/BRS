@@ -1,0 +1,19 @@
+.hov>li>a
+{
+ color: black;
+}
+.hov>li>a:hover
+{
+ color: blue;
+}
+ul li{
+    list-style: none;
+    font-weight:bold;
+    font-size: small;
+    
+}
+
+li>a.active
+{
+    background: red;
+}
